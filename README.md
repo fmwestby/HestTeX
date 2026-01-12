@@ -13,7 +13,7 @@ Usage:
 \end{document}
 
 Output:
-```
+```bash
             .''
   ._.-.___.' (`\
  //(        ( `'
