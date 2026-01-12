@@ -74,7 +74,7 @@ CTAN and distribution
 
 Report issues / contribute
 ----------
-Repository & issues: https://github.com/yourusername/hest  
+Repository & issues: https://github.com/fmwestby/hest  
 Feel free to open issues or PRs for improvements (e.g., package options, additional art files, documentation).
 
 License
